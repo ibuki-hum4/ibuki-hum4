@@ -7,15 +7,19 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,js,go" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,js,go" /> 
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,discordjs" /> 
+
+## Tech, Software & Sites I use
+
+<img src="https://skillicons.dev/icons?i=azure,cloudflare,codepen,discord,github,git,docker" /> 
 
 ## In studying
 
-<img src="https://skillicons.dev/icons?i=go,next,discordjs,docker,k8s,ubuntu" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,next,discordjs,docker,k8s,ubuntu" /> 
 
 ---
 
