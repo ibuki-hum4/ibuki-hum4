@@ -19,7 +19,7 @@
 
 ## In studying
 
-<img src="https://skillicons.dev/icons?i=go,next,discordjs,docker,k8s,ubuntu" /> 
+<img src="https://skillicons.dev/icons?i=go,next,discordjs,docker,k8s,ubuntu,ruby," /> 
 
 ---
 
