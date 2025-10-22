@@ -7,11 +7,11 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,js,go" /> 
+<img src="https://skillicons.dev/icons?i=html,js,ts,go,ruby" /> 
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,discordjs" /> 
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,bun,npm,discordjs" /> 
 
 ## Tech, Software & Sites I use
 
