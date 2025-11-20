@@ -1,5 +1,5 @@
 # Hello to all the developers out there!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibuki-hum4&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibuki-hum4&show_icons=true)
 
 ---
