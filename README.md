@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Junior High School Student (2nd Grade) · Japan
+  Junior High School Student (3rd Grade) · Japan
 </p>
 
 <p align="center">
