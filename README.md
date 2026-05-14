@@ -86,3 +86,5 @@ k8sが大好き。
     src="https://github-readme-activity-graph.vercel.app/graph?username=ibuki-hum4&theme=github-light&hide_border=true&line=7C3AED&point=7C3AED&area=true&area_color=EDE9FE" 
   />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibuki-hum4)](https://github.com/ryo-ma/github-profile-trophy)
