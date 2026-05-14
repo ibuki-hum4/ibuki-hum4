@@ -35,6 +35,7 @@ k8sが大好き。
 <p>
   <img src="https://img.shields.io/badge/Ruby-ffffff?style=flat-square&logo=ruby&logoColor=CC342D"/>
   <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Go-ffffff?style=flat-square&logo=go"/>
   <img src="https://img.shields.io/badge/REST-ffffff?style=flat-square"/>
   <img src="https://img.shields.io/badge/WebSocket-ffffff?style=flat-square"/>
 </p>
