@@ -14,6 +14,10 @@
   />
 </p>
 
+<a href="https://justuuid.pages.dev/u/976522a1-4bb1-4c51-9159-d325213011be" target="_blank" rel="noopener noreferrer">
+  <img src="https://justuuid.pages.dev/api/badge/u/976522a1-4bb1-4c51-9159-d325213011be.svg" alt="UUID Badge" />
+</a>
+
 ## About
 
 中学3年生。
