@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="290" viewBox="0 0 820 290" role="img" aria-label="やーはり / Yāhari — Full-Stack Developer, Infrastructure Engineer">
+<title>やーはり / Yāhari</title>
+<defs><clipPath id="c0"><rect x="26" y="59" width="0" height="26"><animate attributeName="width" from="0" to="76.0" begin="0.60s" dur="0.29s" fill="freeze"/></rect></clipPath><clipPath id="c1"><rect x="26" y="85" width="0" height="26"><animate attributeName="width" from="0" to="505.0" begin="1.24s" dur="0.01s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="26" y="111" width="0" height="26"><animate attributeName="width" from="0" to="121.0" begin="1.40s" dur="0.46s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="26" y="137" width="0" height="26"><animate attributeName="width" from="0" to="646.0" begin="2.21s" dur="0.01s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="26" y="163" width="0" height="26"><animate attributeName="width" from="0" to="454.0" begin="2.37s" dur="0.01s" fill="freeze"/></rect></clipPath><clipPath id="c5"><rect x="26" y="189" width="0" height="26"><animate attributeName="width" from="0" to="166.0" begin="2.53s" dur="0.64s" fill="freeze"/></rect></clipPath><clipPath id="c6"><rect x="26" y="215" width="0" height="26"><animate attributeName="width" from="0" to="517.0" begin="3.52s" dur="0.01s" fill="freeze"/></rect></clipPath></defs>
+<rect x="0.5" y="0.5" width="819" height="289" rx="10" fill="#0a0a0a" stroke="#262626"/>
+<path d="M0.5 44 V10.5 a10 10 0 0 1 10 -10 H809.5 a10 10 0 0 1 10 10 V44 Z" fill="#141414" stroke="#262626"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="42" cy="22" r="6" fill="#febc2e"/><circle cx="60" cy="22" r="6" fill="#28c840"/>
+<text x="410.0" y="27" text-anchor="middle" fill="#8a8a8a" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">ibuki-hum4@github: ~</text>
+<g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Noto Sans Mono CJK JP', monospace" font-size="15">
+<text x="28" y="74" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#E8452C">$ </tspan><tspan fill="#e6e6e6">whoami</tspan></text>
+<text x="28" y="100" clip-path="url(#c1)" xml:space="preserve"><tspan fill="#e6e6e6">やーはり / Yāhari</tspan><tspan fill="#8a8a8a">  —  Full-Stack · Infrastructure · Japan</tspan></text>
+<text x="28" y="126" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#E8452C">$ </tspan><tspan fill="#e6e6e6">cat now.txt</tspan></text>
+<text x="28" y="152" clip-path="url(#c3)" xml:space="preserve"><tspan fill="#8a8a8a">building  </tspan><tspan fill="#E8452C">senr/</tspan><tspan fill="#e6e6e6"> Senri 千里 — a Web Standards framework for every runtime</tspan></text>
+<text x="28" y="178" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#8a8a8a">running   </tspan><tspan fill="#e6e6e6">HoshID · bare-metal Kubernetes · Proxmox</tspan></text>
+<text x="28" y="204" clip-path="url(#c5)" xml:space="preserve"><tspan fill="#E8452C">$ </tspan><tspan fill="#e6e6e6">echo $PHILOSOPHY</tspan></text>
+<text x="28" y="230" clip-path="url(#c6)" xml:space="preserve"><tspan fill="#e6e6e6">Build things that are useful, reliable, and maintainable.</tspan></text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.68s" dur="0.01s" fill="freeze"/><text x="28" y="256" fill="#E8452C">$</text><rect x="46.0" y="243" width="9.0" height="17" fill="#e6e6e6"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</g>
+</svg>
