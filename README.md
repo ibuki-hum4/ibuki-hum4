@@ -1,4 +1,4 @@
-<!-- Accent color: E8452C (朱色・仮). 差し替えるときは README.md / tools/gen_header.py / .github/workflows/snake.yml の E8452C を一括置換 -->
+# やーはり <sub>/ Yāhari</sub>
 
 <p align="center">
   <picture>
@@ -11,7 +11,7 @@
 <h1 align="center">やーはり <sub><sup>/ Yāhari</sup></sub></h1>
 
 <p align="center">
-  <code>Full-Stack</code> · <code>Infrastructure</code> · <code>Open Source</code> · <code>Japan 🇯🇵</code>
+  <code>15 Years Old</code> · <code>Junior High School Student</code> · <code>Full-Stack</code> · <code>Infrastructure</code> · <code>Open Source</code> · <code>Japan 🇯🇵</code>
 </p>
 
 <p align="center">
@@ -39,9 +39,10 @@
 ```console
 $ cat ~/.profile
 name        Yāhari (やーはり)
-github      ibuki-hum4
+age         15
+education   Junior High School Student (3rd Grade)
 location    Japan
-role        Developer / Infrastructure Engineer
+role        Student Developer / Infrastructure Engineer
 
 $ cat ~/interests
 - Full-Stack Development
@@ -54,7 +55,10 @@ $ echo $PHILOSOPHY
 Build things that are useful, reliable, and maintainable.
 ```
 
-I build software across the stack — from web frameworks and APIs to the Kubernetes clusters they run on.
+I'm a 15-year-old student developer interested in building software, infrastructure, and open-source projects.
+
+I enjoy working across the stack — from web frameworks and APIs to the Kubernetes clusters they run on.
+
 I care about maintainability, type safety, performance, and practical engineering.
 
 ---
@@ -97,9 +101,6 @@ I care about maintainability, type safety, performance, and practical engineerin
       <p>
         <a href="https://github.com/ibuki-hum4/HoshID"><img src="https://img.shields.io/github/stars/ibuki-hum4/HoshID?style=flat-square&logo=github&color=E8452C&labelColor=0a0a0a" alt="HoshID Stars" /></a>
       </p>
-      <br/>
-      <h3>Ippo <sub>一歩</sub> <code>planned</code></h3>
-      <p>A React meta-framework built on Senri.<br/><em>千里の道も一歩から</em> — a journey of a thousand miles begins with a single step.</p>
     </td>
   </tr>
 </table>
@@ -113,9 +114,9 @@ I care about maintainability, type safety, performance, and practical engineerin
     <td><b>Languages</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,go,ruby&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,go,ruby&theme=light" />
-        <img src="https://skillicons.dev/icons?i=ts,js,go,ruby&theme=dark" alt="Languages" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cgo%2Crust%2Ccs%2Cruby&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cgo%2Crust%2Ccs%2Cruby&theme=light" />
+        <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cgo%2Crust%2Ccs%2Cruby&theme=dark" alt="Languages" />
       </picture>
     </td>
   </tr>
@@ -123,9 +124,9 @@ I care about maintainability, type safety, performance, and practical engineerin
     <td><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=light" />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cvite&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cvite&theme=light" />
+        <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cvite&theme=dark" alt="Frontend" />
       </picture>
     </td>
   </tr>
@@ -133,9 +134,9 @@ I care about maintainability, type safety, performance, and practical engineerin
     <td><b>Runtime</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,bun,deno&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,bun,deno&theme=light" />
-        <img src="https://skillicons.dev/icons?i=nodejs,bun,deno&theme=dark" alt="Runtime" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cbun%2Cdeno%2Cworkers&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cbun%2Cdeno%2Cworkers&theme=light" />
+        <img src="https://skillicons.dev/icons?i=nodejs%2Cbun%2Cdeno%2Cworkers&theme=dark" alt="Runtime" />
       </picture>
     </td>
   </tr>
@@ -143,9 +144,9 @@ I care about maintainability, type safety, performance, and practical engineerin
     <td><b>Infra</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,cloudflare&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,cloudflare&theme=light" />
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,cloudflare&theme=dark" alt="Infrastructure" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Clinux%2Cnginx%2Cgithubactions%2Ccloudflare%2Cvercel&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Clinux%2Cnginx%2Cgithubactions%2Ccloudflare%2Cvercel&theme=light" />
+        <img src="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Clinux%2Cnginx%2Cgithubactions%2Ccloudflare%2Cvercel&theme=dark" alt="Infrastructure" />
       </picture>
     </td>
   </tr>
